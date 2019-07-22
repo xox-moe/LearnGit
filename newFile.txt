@@ -1,0 +1,5 @@
+这是为了演示add命令而创建的文件。
+
+git diff
+example 
+this is new text
